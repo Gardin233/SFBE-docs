@@ -1,7 +1,3 @@
 node_modules/
 dist/
-.vitepress/cache
-.vitepress/dist
-dist/
-node_modules/
 release/
