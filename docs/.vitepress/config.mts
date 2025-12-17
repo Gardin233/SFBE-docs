@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base:"/SFBE-docs/"
+  base:"/SFBE-docs/",
   title: "SFBE-docs",
   description: "专注于windowsARG的引擎",
   themeConfig: {
