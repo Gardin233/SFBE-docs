@@ -8,14 +8,14 @@ hero:
   tagline: 专注于Windows的ARG引擎
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 快速开始
+      link: /alpha/
     - theme: alt
       text: API实例
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: 目标
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
