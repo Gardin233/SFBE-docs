@@ -30,7 +30,8 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm ci              # 比 npm install 更稳定
+        run: npm ci --legacy-peer-deps
+
 
       - name: Build
         run: npm run docs:build  # VitePress 默认命令
