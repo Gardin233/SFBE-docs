@@ -12,7 +12,7 @@ hero:
       link: /alpha/
     - theme: alt
       text: API实例
-      link: /api-examples
+      link: /alpha/
 
 features:
   - title: 目标
