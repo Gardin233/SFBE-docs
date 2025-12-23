@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "SFBE-docs"
   text: "SFBE官方文档"
-  tagline: 专注于Windows的ARG引擎
+  tagline: 专注于Windows的侵入桌面式程序引擎
   actions:
     - theme: brand
       text: 快速开始
