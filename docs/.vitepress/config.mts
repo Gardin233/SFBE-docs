@@ -58,11 +58,6 @@ export default withMermaid(defineConfig({
           items: [
             { text: '时间线基础', link: '/alpha/timeLine/basic' }
           ]
-        },{
-          text: '插件',
-          items: [
-            { text: '基本', link: '/alpha/plugin/' }
-          ]
         }
       ]
     },
